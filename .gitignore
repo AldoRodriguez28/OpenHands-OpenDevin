@@ -262,3 +262,5 @@ containers/runtime/code
 test-results
 .sessions
 .eval_sessions
+temp_auto_push.bat
+temp_interactive_push.bat
